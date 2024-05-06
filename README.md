@@ -11,7 +11,7 @@
   </p>
   Busco complementar meus conhecimentos através de variados cursos online e Bootcamps
   </p>
-  Trabalho atualmente em um provedor de Internet com foco em atendimento e suporte a clientes
+  Trabalho em um provedor de Internet com foco em atendimento e suporte a clientes
   </p>
   Disponível para oportunidades nas áreas relacionadas a tecnologias
 </p>
