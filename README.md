@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9151F7&random=false&width=435&lines=Hello+World+)](https://git.io/typing-svg)
 
-# - 👋 Olá, Meu nome é Virna Liz!
+# - 👋 Olá, Meu nome é Virna Lis!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
